@@ -11,5 +11,5 @@ PSO2es의 한국어 패치 프로젝트입니다.<br>
 {<br>
 		"assign": "601301",<br>
 		"jp_text": "ＯＰ回復薬",<br>
-		"tr_text": "OP 회복약'''"'''" 또는 "tr_text": "OP 회복약""''','''<br>
+		"tr_text": "OP 회복약'''"'''" 또는 "tr_text": "OP 회복약""<b>,</b><br>
 }<br>
