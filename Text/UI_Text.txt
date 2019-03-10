@@ -1607,7 +1607,7 @@
 	{
 		"assign": "equip_guide_15",
 		"jp_text": "<color=#f0df60>詳細設定を押すと、「おすすめ装備」で選択する条件を細かく指定することができます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>상세 설정을 누르면, 「추천 장비」로 선택하는 조건을 세분화 하여 지정할 수 있습니다.</color>"
 	},
 	{
 		"assign": "equip_guide_02",
@@ -1632,7 +1632,7 @@
 	{
 		"assign": "equip_guide_11",
 		"jp_text": "<color=#f0df60>コスチューム、パーツをタッチすると、装備の変更を行うことができます。アイテムのアイコンを長押しすると、詳細情報を確認できます。</color>",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60>코스튬, 파츠를 터치하면, 장비의 변경을 실시할 수 있습니다. 아이템을 길게 누르면 상세정보를 확인할 수 있습니다.</color>"
 	},
 	{
 		"assign": "equip_guide_04",
@@ -1707,7 +1707,7 @@
 	{
 		"assign": "equip_dialog_b_03",
 		"jp_text": "装備条件が合っていないため\nこのアイテムは装備できません。\nアイテム詳細画面の\n「装備条件」を確認してください。",
-		"tr_text": "장비 조건이 맞지 않나\n이 아이템은 장비할 수 없습니다.\n아이템 상세 화면의\n「장비 조건」을 확인해주세요."
+		"tr_text": "장비 조건이 맞지 않아\n이 아이템은 장비할 수 없습니다.\n아이템 상세 화면의\n「장비 조건」을 확인해주세요."
 	},
 	{
 		"assign": "equip_dialog_t_04",
@@ -1737,7 +1737,7 @@
 	{
 		"assign": "equip_dialog_b_06",
 		"jp_text": "アイテムパック内の状態が変更されました。\n条件に合わなくなったチップの装備は解除されます。",
-		"tr_text": ""
+		"tr_text": "아이템 팩 안의 상태가 변경되었습니다. \n조건에 맞지 않는 칩의 장비는 해제됩니다."
 	},
 	{
 		"assign": "equip_dialog_t_07",
@@ -1812,27 +1812,27 @@
 	{
 		"assign": "equip_dialog_t_14",
 		"jp_text": "マイセット確認",
-		"tr_text": ""
+		"tr_text": "마이세트 확인"
 	},
 	{
 		"assign": "equip_dialog_b_14",
 		"jp_text": "{0}に\n{1}の\n内容を保存します。よろしいですか？",
-		"tr_text": ""
+		"tr_text": "{0}에\n{1}의\n내용을 저장합니다. 괜찮습니까?"
 	},
 	{
 		"assign": "equip_dialog_t_15",
 		"jp_text": "マイセット確認",
-		"tr_text": ""
+		"tr_text": "마이세트 확인"
 	},
 	{
 		"assign": "equip_dialog_b_15",
 		"jp_text": "{0}を削除します。\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "{0}을(를) 삭제합니다. \n괜찮습니까?"
 	},
 	{
 		"assign": "friend_guide_00",
 		"jp_text": "<color=#f0df60>あなたのフレンド一覧です。</color>",
-		"tr_text": "<color=#f0df60>당신의 친구 목록입니다.</color>"
+		"tr_text": "<color=#f0df60>당신의 프랜드 목록입니다.</color>"
 	},
 	{
 		"assign": "friend_guide_01",
@@ -1887,7 +1887,7 @@
 	{
 		"assign": "friend_dialog_b_04",
 		"jp_text": "フレンド登録を解除しました。",
-		"tr_text": "친구 등록을 해제했습니다."
+		"tr_text": "프랜드 등록을 해제했습니다."
 	},
 	{
 		"assign": "friend_dialog_t_05",
@@ -5087,7 +5087,7 @@
 	{
 		"assign": "questcounter_guide_06",
 		"jp_text": "<color=#f0df60>フレンドたちと共に強力なエネミーを討伐するクエストです。</color>",
-		"tr_text": "<color=#f0df60>친구들과 함께 강력한 에너미를 토벌하는 퀘스트입니다.</color>"
+		"tr_text": "<color=#f0df60>프랜드들과 함께 강력한 에너미를 토벌하는 퀘스트입니다.</color>"
 	},
 	{
 		"assign": "questcounter_guide_07",
@@ -7252,7 +7252,7 @@
 	{
 		"assign": "pse_friend",
 		"jp_text": "フレンド回復ＵＰ",
-		"tr_text": "친구 회복 UP"
+		"tr_text": "프랜드 회복 UP"
 	},
 	{
 		"assign": "player_abnormal_burn",
@@ -9352,22 +9352,22 @@
 	{
 		"assign": "menu_title_quest",
 		"jp_text": "クエスト",
-		"tr_text": ""
+		"tr_text": "퀘스트"
 	},
 	{
 		"assign": "menu_title_formation",
 		"jp_text": "編成",
-		"tr_text": ""
+		"tr_text": "편성"
 	},
 	{
 		"assign": "menu_title_shop",
 		"jp_text": "ショップ",
-		"tr_text": ""
+		"tr_text": "샵"
 	},
 	{
 		"assign": "menu_title_linkage",
 		"jp_text": "連動",
-		"tr_text": ""
+		"tr_text": "연동"
 	},
 	{
 		"assign": "menu_title_other",
@@ -9382,17 +9382,17 @@
 	{
 		"assign": "manu_sub_title_system",
 		"jp_text": "システム",
-		"tr_text": ""
+		"tr_text": "시스템"
 	},
 	{
 		"assign": "manu_sub_title_other",
 		"jp_text": "コミュニティ",
-		"tr_text": ""
+		"tr_text": "커뮤니티"
 	},
 	{
 		"assign": "menu_sbu_title_title",
 		"jp_text": "タイトル",
-		"tr_text": ""
+		"tr_text": "타이틀"
 	},
 	{
 		"assign": "menu_main_button_equipment",
@@ -9412,12 +9412,12 @@
 	{
 		"assign": "menu_main_button_chip_release",
 		"jp_text": "チップ解放",
-		"tr_text": ""
+		"tr_text": "칩 해방"
 	},
 	{
 		"assign": "menu_main_button_item_grind",
 		"jp_text": "アイテム強化",
-		"tr_text": ""
+		"tr_text": "아이템 강화"
 	},
 	{
 		"assign": "menu_main_button_change_class",
@@ -9437,32 +9437,32 @@
 	{
 		"assign": "menu_main_button_recycle",
 		"jp_text": "交換ショップ",
-		"tr_text": ""
+		"tr_text": "교환 샵"
 	},
 	{
 		"assign": "menu_main_button_ac_shop",
 		"jp_text": "ACショップ",
-		"tr_text": ""
+		"tr_text": "AC샵"
 	},
 	{
 		"assign": "menu_main_button_ac_charge",
 		"jp_text": "ACチャージ",
-		"tr_text": ""
+		"tr_text": "AC 충전"
 	},
 	{
 		"assign": "menu_main_button_iac_shop",
 		"jp_text": "iACショップ",
-		"tr_text": ""
+		"tr_text": "iAC 상점"
 	},
 	{
 		"assign": "menu_main_button_iac_charge",
 		"jp_text": "iACチャージ",
-		"tr_text": ""
+		"tr_text": "iAC 충전"
 	},
 	{
 		"assign": "menu_main_button_premium",
 		"jp_text": "プレミアムセット",
-		"tr_text": ""
+		"tr_text": "프리미엄 세트"
 	},
 	{
 		"assign": "menu_main_button_link_depot",
@@ -9482,7 +9482,7 @@
 	{
 		"assign": "menu_main_button_darker_blast",
 		"jp_text": "ダークブラスト訓練",
-		"tr_text": ""
+		"tr_text": "다크 블래스트 훈련"
 	},
 	{
 		"assign": "menu_main_button_pet",
@@ -9497,7 +9497,7 @@
 	{
 		"assign": "menu_main_button_my_shop",
 		"jp_text": "マイショップ",
-		"tr_text": ""
+		"tr_text": "마이샵"
 	},
 	{
 		"assign": "menu_main_button_counter",
@@ -9507,12 +9507,12 @@
 	{
 		"assign": "menu_main_button_linkage",
 		"jp_text": "連動する",
-		"tr_text": ""
+		"tr_text": "연동하기"
 	},
 	{
 		"assign": "manu_main_button_linkage_help",
 		"jp_text": "連動について",
-		"tr_text": ""
+		"tr_text": "연동에 대하여"
 	},
 	{
 		"assign": "menu_main_button_system",
@@ -9527,7 +9527,7 @@
 	{
 		"assign": "menu_main_button_community",
 		"jp_text": "コミュニティ",
-		"tr_text": ""
+		"tr_text": "커뮤니티"
 	},
 	{
 		"assign": "menu_main_button_character",
@@ -9542,12 +9542,12 @@
 	{
 		"assign": "menu_main_button_chip_laboratory",
 		"jp_text": "チップ研究室",
-		"tr_text": ""
+		"tr_text": "칩 연구실"
 	},
 	{
 		"assign": "menu_main_button_title",
 		"jp_text": "タイトル",
-		"tr_text": ""
+		"tr_text": "타이틀"
 	},
 	{
 		"assign": "menu_main_button_option",
@@ -9557,12 +9557,12 @@
 	{
 		"assign": "menu_sub_button_sale_chip",
 		"jp_text": "チップ売却",
-		"tr_text": ""
+		"tr_text": "칩 판매"
 	},
 	{
 		"assign": "menu_sub_button_sale_item",
 		"jp_text": "アイテム売却",
-		"tr_text": ""
+		"tr_text": "아이템 판매"
 	},
 	{
 		"assign": "menu_sub_button_system_site",
@@ -9612,32 +9612,32 @@
 	{
 		"assign": "menu_sub_button_ship",
 		"jp_text": "シップ選択",
-		"tr_text": ""
+		"tr_text": "쉽 선택"
 	},
 	{
 		"assign": "menu_sub_button_character",
 		"jp_text": "キャラクター選択",
-		"tr_text": ""
+		"tr_text": "캐릭터 선택"
 	},
 	{
 		"assign": "menu_popup_emergency",
 		"jp_text": "緊急発生！",
-		"tr_text": ""
+		"tr_text": "긴급 발생!"
 	},
 	{
 		"assign": "menu_popup_emergency_relief",
 		"jp_text": "救援あり！",
-		"tr_text": ""
+		"tr_text": "도움 필요!"
 	},
 	{
 		"assign": "menu_popup_etarnal_prize",
 		"jp_text": "報酬あり！",
-		"tr_text": ""
+		"tr_text": "보수 있음!"
 	},
 	{
 		"assign": "menu_popup_etarnal_aggregate",
 		"jp_text": "集計中！",
-		"tr_text": ""
+		"tr_text": "집계중!"
 	},
 	{
 		"assign": "menu_shop_title",
@@ -9677,12 +9677,12 @@
 	{
 		"assign": "menu_equip_guard",
 		"jp_text": "コスチューム",
-		"tr_text": ""
+		"tr_text": "코스튬"
 	},
 	{
 		"assign": "menu_equip_class",
 		"jp_text": "クラス変更",
-		"tr_text": ""
+		"tr_text": "클래스 변경"
 	},
 	{
 		"assign": "menu_sale_button",
@@ -9692,7 +9692,7 @@
 	{
 		"assign": "caption_equip",
 		"jp_text": "装備",
-		"tr_text": ""
+		"tr_text": "장비"
 	},
 	{
 		"assign": "caption_grind",
@@ -9727,7 +9727,7 @@
 	{
 		"assign": "menu_menu_itemcode",
 		"jp_text": "esアイテムコード",
-		"tr_text": ""
+		"tr_text": "es아이템 코드"
 	},
 	{
 		"assign": "menu_menu_character",
@@ -9737,27 +9737,27 @@
 	{
 		"assign": "menu_menu_option",
 		"jp_text": "オプション",
-		"tr_text": ""
+		"tr_text": "옵션"
 	},
 	{
 		"assign": "menu_menu_help",
 		"jp_text": "ヘルプ",
-		"tr_text": ""
+		"tr_text": "헬프"
 	},
 	{
 		"assign": "menu_menu_web",
 		"jp_text": "公式サイト",
-		"tr_text": ""
+		"tr_text": "공식 사이트"
 	},
 	{
 		"assign": "menu_menu_transfer",
 		"jp_text": "端末引き継ぎ情報",
-		"tr_text": ""
+		"tr_text": "단말기 인수 정보"
 	},
 	{
 		"assign": "menu_menu_invite",
 		"jp_text": "友達招待",
-		"tr_text": "친구초대"
+		"tr_text": "프랜드초대"
 	},
 	{
 		"assign": "menu_menu_fulldl",
@@ -9962,12 +9962,12 @@
 	{
 		"assign": "chip_grind",
 		"jp_text": "チップ強化",
-		"tr_text": ""
+		"tr_text": "칩 강화"
 	},
 	{
 		"assign": "sell",
 		"jp_text": "売却",
-		"tr_text": ""
+		"tr_text": "판매"
 	},
 	{
 		"assign": "chip_over_num",
@@ -10047,12 +10047,12 @@
 	{
 		"assign": "lobby_top_logout",
 		"jp_text": "タイトルへ戻る",
-		"tr_text": ""
+		"tr_text": "타이틀로"
 	},
 	{
 		"assign": "header_time_label",
 		"jp_text": "<color=#00ff00>あと</color>",
-		"tr_text": ""
+		"tr_text": "<color=#00ff00>앞으로</color>"
 	},
 	{
 		"assign": "community_guide_00",
@@ -10092,7 +10092,7 @@
 	{
 		"assign": "community_guide_07",
 		"jp_text": "<color=#f0df61>他のプレイヤーから受信したフレンド申請と、申請中のフレンド申請を表示します。「受ける」ボタンで、フレンドになることができます。</color>",
-		"tr_text": "<color=#f0df61>다른 플레이어에게 받은 친구 신청과 보낸 친구 신청을 표시합니다. 「受ける」버튼으로,  프랜드를 수락할 수 있습니다.</color>"
+		"tr_text": "<color=#f0df61>다른 플레이어에게 받은 프랜드 신청과 보낸 프랜드 신청을 표시합니다. 「受ける」버튼으로,  프랜드를 수락할 수 있습니다.</color>"
 	},
 	{
 		"assign": "community_guide_08",
@@ -10402,7 +10402,7 @@
 	{
 		"assign": "friend_request_recieve",
 		"jp_text": "受信したフレンド申請",
-		"tr_text": "수신한 친구 신청"
+		"tr_text": "수신한 프랜드 신청"
 	},
 	{
 		"assign": "friend_requested",
@@ -10482,57 +10482,57 @@
 	{
 		"assign": "friend_charamake_dl",
 		"jp_text": "フレンドコスチュームＤＬ",
-		"tr_text": ""
+		"tr_text": "프랜드 코스튬 다운로드"
 	},
 	{
 		"assign": "friend_charamake_dl_timestamp",
 		"jp_text": "最終取得：<%year>/<%month>/<%day> <%hour>:<%minute>",
-		"tr_text": ""
+		"tr_text": "최종 취득：<%year>/<%month>/<%day> <%hour>:<%minute>"
 	},
 	{
 		"assign": "friend_charamake_dl_timestamp_blank",
 		"jp_text": "最終取得：未取得",
-		"tr_text": ""
+		"tr_text": "최종 취득 : 미취득"
 	},
 	{
 		"assign": "friend_charamake_dl_dialog_t",
 		"jp_text": "フレンドコスチュームダウンロード確認",
-		"tr_text": ""
+		"tr_text": "프랜드 코스튬 다운로드 확인"
 	},
 	{
 		"assign": "friend_charamake_dl_dialog_b",
 		"jp_text": "フレンドが設定しているコスチュームデータを\nダウンロードします。\n\n※ダウンロード容量\n最大50MB\n※ダウンロード目安時間\n約2分\n\n※通信環境によって、ダウンロードにかかる時間が\n　異なりますのでご注意ください。\n※ゲームデータのダウンロードは\n　通信環境のいい場所で行ってください。",
-		"tr_text": ""
+		"tr_text": "프랜드로 설정되어 있는 코스튬 데이터를\n다운로드 합니다.\n\n※다운로드 용량\n최대50MB\n※다운로드 기준 시간\n약 2분\n\n※통신환경에 따라 다운로드에 걸리는 시간이\n다르니 조심하세요.\n※게임 데이터의 다운로드는\n통신환경이 원할한 곳에서 해주세요."
 	},
 	{
 		"assign": "friend_charamake_dl_nofriend_dialog_t",
 		"jp_text": "フレンドコスチュームダウンロード確認",
-		"tr_text": ""
+		"tr_text": "프랜드 코스튬 다운로드 확인"
 	},
 	{
 		"assign": "friend_charamake_dl_nofriend_dialog_b",
 		"jp_text": "フレンドがいないため、ダウンロードできません。",
-		"tr_text": ""
+		"tr_text": "프랜드가 없어, 다운로드할 수 없습니다. "
 	},
 	{
 		"assign": "friend_charamake_dl_retry_dialog_t",
 		"jp_text": "通信エラー",
-		"tr_text": ""
+		"tr_text": "통신 오류"
 	},
 	{
 		"assign": "friend_charamake_dl_retry_dialog_b",
 		"jp_text": "データの通信に失敗しました。\nリトライしますか？",
-		"tr_text": ""
+		"tr_text": "데이터 통신에 실패했습니다.\n재시도 하겠습니까?"
 	},
 	{
 		"assign": "friend_charamake_dl_finished_dialog_t",
 		"jp_text": "フレンドコスチュームダウンロード確認",
-		"tr_text": ""
+		"tr_text": "프랜드 코스튬 다운로드 확인"
 	},
 	{
 		"assign": "friend_charamake_dl_finished_dialog_b",
 		"jp_text": "フレンドのコスチュームデータダウンロードが\n完了しました。",
-		"tr_text": ""
+		"tr_text": "프랜드 코스튬 다운로드가\n완료되었습니다."
 	},
 	{
 		"assign": "arkscard_edit",
@@ -10602,7 +10602,7 @@
 	{
 		"assign": "arkscard_dialog_t_01",
 		"jp_text": "アークスカード",
-		"tr_text": ""
+		"tr_text": "아크스 카드"
 	},
 	{
 		"assign": "arkscard_dialog_b_01",
@@ -14292,7 +14292,7 @@
 	{
 		"assign": "raid_relief_line_text_00",
 		"jp_text": "チェックしたフレンドに救援要請を送ります。",
-		"tr_text": "체크한 친구에게 도움 요청을 보냅니다."
+		"tr_text": "체크한 프랜드에게 도움 요청을 보냅니다."
 	},
 	{
 		"assign": "raid_relief_line_text_01",
@@ -14392,7 +14392,7 @@
 	{
 		"assign": "ItemDetail_Parameter_WeaponTraceCaption",
 		"jp_text": "武器フォーム元 /",
-		"tr_text": ""
+		"tr_text": "무기 폼 원본/"
 	},
 	{
 		"assign": "ItemDetail_Parameter_WeaponTraceName",
@@ -14427,17 +14427,17 @@
 	{
 		"assign": "ItemDetail_EquipSkill_Insufficiency",
 		"jp_text": "<color=white><%parameter1>%　　(クラスレベル<%parameter2>で最大効果発揮)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white><%parameter1>%　　(클래스 레벨<%parameter2>에 최대효과)</color>"
 	},
 	{
 		"assign": "ItemDetail_EquipSkill_Sufficiently",
 		"jp_text": "<color=yellow>100%</color>　　<color=white>(最大効果発揮)</color>",
-		"tr_text": ""
+		"tr_text": "<color=yellow>100%</color>　　<color=white>(최대효과 발동)</color>"
 	},
 	{
 		"assign": "ItemDetail_AttrTolerant_TitleCaption",
 		"jp_text": "<color=white>属性耐性</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>속성 내성</color>"
 	},
 	{
 		"assign": "ItemDetail_AttrTolerant_PercentFire",
@@ -14472,37 +14472,37 @@
 	{
 		"assign": "ItemDetail_Correction_Attack",
 		"jp_text": "<color=white>打撃力 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>타격력 (<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Shooting",
 		"jp_text": "<color=white>射撃力 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>사격력 (<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Sorcery",
 		"jp_text": "<color=white>法撃力 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>법격력 (<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Skill",
 		"jp_text": "<color=white>技量 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>기량 (<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_AttackDefence",
 		"jp_text": "<color=white>打撃防御 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>타격방어 (<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_ShootingDefence",
 		"jp_text": "<color=white>射撃防御 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>사격방어 (<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_SorceryDefence",
 		"jp_text": "<color=white>法撃防御 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>법격방어 (<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_HP",
@@ -14517,22 +14517,22 @@
 	{
 		"assign": "ItemDetail_Correction_AttackReduction",
 		"jp_text": "<color=white>打撃軽減 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>타격경감 (<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_ShootingReduction",
 		"jp_text": "<color=white>射撃軽減 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>사격경감 (<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_SorceryReduction",
 		"jp_text": "<color=white>法撃軽減 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>법격경감 (<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Fire",
 		"jp_text": "<color=white>炎耐性 (<%parameter>)</color>",
-		"tr_text": ""
+		"tr_text": "<color=white>화속성 (<%parameter>)</color>"
 	},
 	{
 		"assign": "ItemDetail_Correction_Ice",
@@ -17332,22 +17332,22 @@
 	{
 		"assign": "sort_attack",
 		"jp_text": "攻撃力順",
-		"tr_text": ""
+		"tr_text": "공격력 순"
 	},
 	{
 		"assign": "sort_defence",
 		"jp_text": "防御力順",
-		"tr_text": ""
+		"tr_text": "방어력 순"
 	},
 	{
 		"assign": "sort_reinforce",
 		"jp_text": "強化値順",
-		"tr_text": ""
+		"tr_text": "강화치 순"
 	},
 	{
 		"assign": "sort_ability_count",
 		"jp_text": "特殊能力数順",
-		"tr_text": ""
+		"tr_text": "특수능력 순"
 	},
 	{
 		"assign": "sort_hp",
@@ -17362,12 +17362,12 @@
 	{
 		"assign": "sort_favorite",
 		"jp_text": "お気に入り順",
-		"tr_text": ""
+		"tr_text": "즐겨찾기 순"
 	},
 	{
 		"assign": "sort_actiontype",
 		"jp_text": "発動タイプ順",
-		"tr_text": ""
+		"tr_text": "발동형 순"
 	},
 	{
 		"assign": "sort_new",
@@ -17397,22 +17397,22 @@
 	{
 		"assign": "sort_descending_order",
 		"jp_text": "降順",
-		"tr_text": ""
+		"tr_text": "낮은 순"
 	},
 	{
 		"assign": "sort_ascending order",
 		"jp_text": "昇順",
-		"tr_text": ""
+		"tr_text": "높은 순"
 	},
 	{
 		"assign": "sort_up_count_order",
 		"jp_text": "多い",
-		"tr_text": ""
+		"tr_text": "많은 순"
 	},
 	{
 		"assign": "sort_down_count_order",
 		"jp_text": "少ない",
-		"tr_text": ""
+		"tr_text": "적은 순"
 	},
 	{
 		"assign": "filter_title_on",
@@ -17447,7 +17447,7 @@
 	{
 		"assign": "filter_linkskill",
 		"jp_text": "リンクスキル",
-		"tr_text": ""
+		"tr_text": "링크 스킬"
 	},
 	{
 		"assign": "filter_kind",
@@ -18282,7 +18282,7 @@
 	{
 		"assign": "dialog_title_collect_search_use_ac",
 		"jp_text": "コレクトサーチ",
-		"tr_text": "콜렉트 검색"
+		"tr_text": "콜렉트 서치"
 	},
 	{
 		"assign": "dialog_body_collect_search_use_ac",
@@ -18337,17 +18337,17 @@
 	{
 		"assign": "collect_search_dialog_t_01",
 		"jp_text": "コレクトサーチ",
-		"tr_text": "콜렉트 검색"
+		"tr_text": "콜렉트 서치"
 	},
 	{
 		"assign": "collect_search_dialog_b_01",
 		"jp_text": "このシートは配信期間が終了しているため\nコレクトサーチを行えません。",
-		"tr_text": "이 시트는 배포기간이 종료되었기에\n콜렉트 검색이 불가능합니다."
+		"tr_text": "이 시트는 배포기간이 종료되었기에\n콜렉트 서치이 불가능합니다."
 	},
 	{
 		"assign": "collect_search_dialog_t_02",
 		"jp_text": "コレクトサーチ",
-		"tr_text": "콜렉트 검색"
+		"tr_text": "콜렉트 서치"
 	},
 	{
 		"assign": "collect_search_dialog_b_02",
