@@ -1,5 +1,5 @@
 <!-- HTML CODE-->
-<html> 테스트 </html>
+<html>
 PSO2es의 한국어 패치 프로젝트입니다.
 번역 방식 간단 설명
 {
@@ -15,3 +15,4 @@ PSO2es의 한국어 패치 프로젝트입니다.
 		"jp_text": "ＯＰ回復薬",
 			"tr_text": "OP 회복약 "" 또는 "tr_text": "OP 회복약""
 }
+</html>
